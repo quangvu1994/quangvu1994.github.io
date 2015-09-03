@@ -1,0 +1,75 @@
+/*
+Apply this type of CSS if the width is smaller than 480px
+*/
+@media screen and (min-width: 480px){
+  /***************************
+  THE COLUME LAYOUT
+  ***************************/
+  
+  #primary{
+    float: left;
+    width: 50%;
+  }
+  
+  #secondary{
+    float: right;
+    width: 40%;
+  }
+  
+  /***************************
+  Porfolio Page
+  ***************************/
+  
+  #gallery li{
+    width: 28.3333%;
+  }
+  
+  #gallery li:nth-child(4n){
+    clear: left;
+  }
+  
+  /***************************
+  About Page
+  ***************************/
+  
+  .profile-picture{
+    float: left;
+    margin: 0 5% 80px 0;
+  }
+}
+
+@media screen and (min-width: 660px){
+  /***************************
+  HEADER
+  ***************************/
+  
+  nav {
+    background: none;
+    float: right;
+    text-align: right;
+    margin-right: 5%;
+    width: 45%;
+    font-size: 1.125em;
+  }
+  
+  #logo {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+    width: 45%;
+  }
+  
+  h1{
+    font-size: 2.5em;
+  }
+  
+  h2{
+    font-size: 0.825em;
+    margin-bottom: 20px;
+  }
+  
+  header{
+    border-bottom: 5px solid #599a68;
+    margin-bottom: 60px;
+  }
+}

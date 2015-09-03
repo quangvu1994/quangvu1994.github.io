@@ -1,0 +1,176 @@
+a {
+  text-decoration: none;
+}
+
+#wrapper {
+  max-width: 940px;
+  margin: 0 auto;
+  padding: 0 5%;
+}
+
+#logo {
+  text-align: center;
+  margin: 0;
+} 
+
+/* 
+  Header style: 
+  Change the general style of the header
+*/
+header {
+  background: #6ab47b;
+  color: #599a68;
+  float: left;
+  margin: 0 0 30px 0;
+  padding: 5px 0 0 0;
+  width: 100%;
+}
+/* 
+Style the heading of the page
+Change text color to white
+*/
+h1, h2{
+  color: #fff;
+}
+
+h1{
+  font-family: 'Changa One', sans-serif;
+  margin: 0 0;
+  font-size: 1.75em; 
+  font-weight: normal;
+}
+
+h2{
+  margin: 0;
+  font-size: 0.85em;
+  font-weight: normal;
+}
+/* 
+  Navigation style: 
+  Change background color and text color
+*/
+nav {
+  background: green;
+  text-align: center;
+  padding: 10px 0;
+  margin: 20px 0 0
+}
+
+nav a, nav a:visited{
+  color: #fff;
+}
+
+nav a:hover{
+  color: #000;
+}
+
+nav ul{
+  list-style: none;
+  margin: 0 10px;
+  padding: 0;
+}
+
+nav li{
+  display: inline-block;
+  font-weight: 800;
+  padding: 0 10px;
+}
+
+/* 
+  Site body style: 
+  Change background color and text color
+*/
+body {
+  background-color: #fff;
+  color: #999;
+}
+
+body{
+  font-family: 'Open Sans', sans-serif;
+}
+
+/*
+  Footer style
+*/
+
+footer{
+  font-size: 0.75em;
+  text-align: center;
+  clear: both;
+  padding-top: 50px;
+  color: #ccc;
+}
+
+/*
+  Image style for the portfolio section
+*/
+
+/*
+Image change automatically according to the size of
+the width of our browser.
+*/
+img {
+  max-width: 100%
+}
+
+#gallery{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+} 
+
+#gallery li{
+  float: left;
+  margin: 2.5%;
+  width: 45%;
+  background-color: #f5f5f5;
+  color: #bdc3c7;
+}
+
+#gallery li a p{
+  margin: 0;
+  font-size: 0.75em;
+  color: #bdc3c7;
+  padding: 5%;
+}
+
+/***************************
+PAGE: ABOUT
+***************************/
+
+.profile-picture{
+  display: block;
+  max-width: 150px;
+  margin: 0 auto 30px;
+  border-radius: 100%;
+}
+
+h3{
+  margin: 0 0 1em 0;
+}
+
+/***************************
+PAGE: CONTACT
+***************************/
+
+.contact-info{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  font-size: 0.9em;
+}
+
+.contact-info li.phone a{
+  background-image: url('../Image/phone.png')
+}
+.contact-info li.mail a{
+  background-image: url('../Image/mail.png')
+}
+.contact-info a{
+  display: block;
+  min-height: 20px;
+  background-repeat:no-repeat;
+  background-size: 20px 20px;
+  padding: 0 0 0 30px;
+  margin: 0 0 10px;
+}
