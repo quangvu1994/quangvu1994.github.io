@@ -40,6 +40,7 @@ Apply this type of CSS if the width is smaller than 480px
   #aboutSection p{
     float: right;
     clear: left;
+    background-color: red;
   }
 }
 
