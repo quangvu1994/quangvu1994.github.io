@@ -34,13 +34,7 @@ Apply this type of CSS if the width is smaller than 480px
   
   .profile-picture{
     float: left;
-    margin: 0 5% 0 0;
-  }
-  
-  #aboutSection p{
-    float: right;
-    clear: left;
-    background-color: red;
+    margin: 0 5% 20% 0;
   }
 }
 
