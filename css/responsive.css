@@ -8,12 +8,12 @@ Apply this type of CSS if the width is smaller than 480px
   
   #primary{
     float: left;
-    width: 50%;
+    width: 60%;
   }
   
   #secondary{
     float: right;
-    width: 40%;
+    width: 30%;
   }
   
   /***************************
