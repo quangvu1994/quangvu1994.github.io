@@ -20,12 +20,8 @@ Apply this type of CSS if the width is smaller than 480px
   Porfolio Page
   ***************************/
   
-  #gallery li{
+  #githubImage{
     width: 28.3333%;
-  }
-  
-  #gallery li:nth-child(4n){
-    clear: left;
   }
   
   /***************************
