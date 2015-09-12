@@ -101,13 +101,19 @@ footer{
   color: #ccc;
 }
 
-/*Github Image style 
-- width of the image are changed according to the browser
+
+/*
+   Image fit with the browser
 */
+img {
+  max-width: 100%;
+}
 #githubSymbol {
-  max-width: 80%;
-  padding: 0 25%;
-  background-color: red;
+ list-style: none;
+}
+
+#githubSymbol a img{
+  padding: 0 33.3333%;		
 }
 
 
