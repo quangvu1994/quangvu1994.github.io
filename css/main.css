@@ -101,15 +101,10 @@ footer{
   color: #ccc;
 }
 
-/*
-  Image style for the portfolio section
+/*Github Image style 
+- width of the image are changed according to the browser
 */
-
-/*
-Image change automatically according to the size of
-the width of our browser.
-*/
-img {
+#githubSymbol {
   max-width: 100%
 }
 
