@@ -1,7 +1,7 @@
 /*
 Apply this type of CSS if the width is smaller than 480px
 */
-@media screen and (min-width: 480px){
+@media screen and (min-width: 490px){
   /***************************
   THE COLUME LAYOUT
   ***************************/
@@ -35,7 +35,7 @@ Apply this type of CSS if the width is smaller than 480px
   }
 }
 
-@media screen and (min-width: 660px){
+@media screen and (min-width: 680px){
   /***************************
   HEADER
   ***************************/
