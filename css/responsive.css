@@ -21,7 +21,7 @@ Apply this type of CSS if the width is smaller than 480px
   ***************************/
   
   #githubSymbol a img{
-     padding: 0 33%;
+     margin: 20px 33%;
      width: 28.3333%;
   }
   
