@@ -115,6 +115,8 @@ img {
 }
 
 #githubSymbol a img{
+  margin: 10px 34%;
+  width: 50%;
 }
 
 /***************************
