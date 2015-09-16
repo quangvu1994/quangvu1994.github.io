@@ -124,8 +124,7 @@ img {
 
 #githubSymbol p{
   margin: 0 0;
-  padding: 0 0 0 30px;
-  text-align: center; 
+  padding: 0 40%; 
   font-size: 1.5em;
   color: #000;
 }
