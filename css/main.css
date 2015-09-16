@@ -101,6 +101,9 @@ footer{
   color: #ccc;
 }
 
+/***************************
+PAGE: PORTFOLIO
+***************************/
 
 /*
    Image fit with the browser
@@ -117,6 +120,12 @@ img {
 #githubSymbol a img{
   margin: 10px 25%;
   width: 50%;
+}
+
+#githubSymbol p{
+  margin: 0 25%; 
+  font-size: 1.5em;
+  color: #000;
 }
 
 /***************************
