@@ -30,6 +30,10 @@ Apply this type of CSS if the width is smaller than 480px
   #githubSymbol a img{
      margin: 10px 33%;
   }
+ 
+  #githubSymbol p{
+    padding: 0 5%; 
+  }
   
   /***************************
   About Page
