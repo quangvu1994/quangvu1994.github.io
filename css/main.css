@@ -130,7 +130,7 @@ img {
 }
 #tapHeroPicture{
   padding: 0;
-  margin: 30px 0 0 0;
+  clear: right;
 }
 #tapHeroPicture img{
   width: 65%;
