@@ -1,5 +1,5 @@
 /*
-Apply this type of CSS if the width is smaller than 480px
+Apply this type of CSS if the width is at 490px
 */
 @media screen and (min-width: 490px){
   /***************************
@@ -37,10 +37,6 @@ Apply this type of CSS if the width is smaller than 480px
   #tapHeroPicture{
     float: right;
     width: 40%;
-  }
-  
-  #tapHeroPicture img{
-    margin: 10px 33%;
   }  
 
   #tapHeroDescription{
