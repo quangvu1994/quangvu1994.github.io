@@ -39,6 +39,11 @@ Apply this type of CSS if the width is smaller than 480px
     width: 40%;
   }
   
+  #tapHeroDescription{
+    float: left;
+    width: 60%;
+  }
+  
   /***************************
   About Page
   ***************************/
