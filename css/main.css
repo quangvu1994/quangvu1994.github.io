@@ -129,7 +129,7 @@ img {
   color: #000;
 }
 
-#tapHeroPicture {
+#tapHeroPicture img{
   width: 65%;
   margin: 10px 18%;
 }

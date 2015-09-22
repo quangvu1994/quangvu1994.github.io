@@ -36,11 +36,11 @@ Apply this type of CSS if the width is smaller than 480px
   }
   #tapHeroPicture{
     float: right;
-    width: 30%;
+    width: 40%;
   }
   
   #tapHeroPicture img{
-    margin: 10px 10%;
+    margin: 10px 33%;
   }
   /***************************
   About Page
