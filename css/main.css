@@ -3,7 +3,7 @@ a {
 }
 
 a:link{
-	color: gray;
+	color: blue;
 }
 a:visited{
 	color: green;
@@ -12,7 +12,7 @@ a:active{
 	color: hotpink;
 }
 a:hover{
-	color: blue;
+	color: gray;
 }
 
 p {
