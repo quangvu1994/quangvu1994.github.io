@@ -2,6 +2,22 @@ a {
   text-decoration: none;
 }
 
+a:link{
+	color: gray;
+}
+a:visited{
+	color: green;
+}
+a:active{
+	color: hotpink;
+}
+a:hover{
+	color: blue;
+}
+
+p {
+	color: black;
+}
 #wrapper {
   max-width: 940px;
   margin: 0 auto;
