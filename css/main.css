@@ -18,6 +18,7 @@ a:hover{
 p {
 	color: black;
 }
+
 #wrapper {
   max-width: 940px;
   margin: 0 auto;
@@ -37,36 +38,28 @@ header {
   background: #6ab47b;
   color: #599a68;
   float: left;
-  margin: 0 0 30px 0;
-  padding: 5px 0 0 0;
+  margin: 0;
+  padding: 0;
   width: 100%;
 }
 /* 
 Style the heading of the page
 Change text color to white
 */
-h1, h2{
-  color: #fff;
-}
 
 h1{
+  color: #fff;
   font-family: 'Changa One', sans-serif;
-  margin: 0 0;
+  margin: 20px 0;
   font-size: 1.75em; 
   font-weight: normal;
 }
 
-h2{
-  margin: 0;
-  font-size: 0.85em;
-  font-weight: normal;
-}
 /* 
   Navigation style: 
   Change background color and text color
 */
 nav {
-  background: green;
   text-align: center;
   padding: 10px 0;
   margin: 20px 0 0
@@ -82,7 +75,7 @@ nav a:hover{
 
 nav ul{
   list-style: none;
-  margin: 0 10px;
+  margin: 5px 10px 20px 10px;
   padding: 0;
 }
 
@@ -99,6 +92,7 @@ nav li{
 body {
   background-color: #fff;
   color: #999;
+  margin: 0;
 }
 
 body{
@@ -167,6 +161,7 @@ img {
 /***************************
 PAGE: ABOUT
 ***************************/
+
 
 .profile-picture{
   display: block;
