@@ -15,19 +15,6 @@ Apply this type of CSS if the width is at 490px
     float: right;
     width: 30%;
   }
-
-  /***************************
-  Experience Page
-  ***************************/
-  .company-logo {
-    float: left;
-    width: 40%;
-  }
-
-  .job-description {
-    float: right;
-    width: 60%;
-  }
   
   /***************************
   Porfolio Page

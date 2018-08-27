@@ -1,0 +1,42 @@
+/***************************
+PAGE: EXPERIENCE
+***************************/
+#job-wrapper {
+    display: block;
+    padding: 0;
+    float: left;
+    width: 100%;
+    margin: 25px 0;
+}
+
+.company-logo {
+    padding: 0;
+    clear: left;
+}
+
+.company-logo img {
+    width: 50%;
+    border-radius: 30%;
+    margin: 0 25%;
+}
+.job-description {
+    margin: 20px 0;
+}
+.job-description h3 {
+    color: #37c;
+    text-align: center;
+}
+
+.job-description h4 {
+    color: #5e9516;
+    text-align: center;
+}
+
+.job-description h5 {
+    color: #333;
+    text-align: center;
+}
+
+.job-description p {
+    font-size: 0.9em; 
+}
