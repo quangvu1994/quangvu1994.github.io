@@ -3,8 +3,9 @@ a {
 }
 
 a:link{
-	color: #599a68;
+  color: #1a1a1a;
 }
+
 a:visited{
   color: gray;
 }
@@ -53,6 +54,11 @@ h1{
   margin: 20px 0;
   font-size: 1.75em; 
   font-weight: normal;
+}
+
+h3{
+  margin: 0 0 1em 0;
+  color: #37c;
 }
 
 /* 
@@ -171,10 +177,14 @@ PAGE: ABOUT
   border-radius: 30%;
 }
 
-h3{
-  margin: 0 0 1em 0;
+#aboutSection h3 {
+  text-align: center;
 }
 
+#aboutSection p {
+  margin: 0 0 1em;
+  font-size: 0.9em;
+}
 
 /***************************
 PAGE: CONTACT
