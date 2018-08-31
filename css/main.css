@@ -3,21 +3,22 @@ a {
 }
 
 a:link{
-  color: #1a1a1a;
+  color: #37c;
 }
 
 a:visited{
-  color: gray;
+  color: brown;
 }
 a:active{
 	color: hotpink;
 }
 a:hover{
-	color: gray;
+	color: #5e9516;
 }
 
 p {
-	color: black;
+  color: rgba(61, 60, 60, 0.733);
+  font-weight: 500;
 }
 
 #wrapper {
@@ -57,6 +58,9 @@ h1{
 }
 
 h3{
+  font-family: 'Changa One', sans-serif;
+  font-weight: normal;
+  font-size: 1.6em;
   margin: 0 0 1em 0;
   color: #37c;
 }
@@ -97,7 +101,6 @@ nav li{
 */
 body {
   background-color: #fff;
-  color: #999;
   margin: 0;
 }
 
