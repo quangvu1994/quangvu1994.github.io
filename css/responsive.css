@@ -32,28 +32,16 @@ Apply this type of CSS if the width is at 490px
   /***************************
   Porfolio Page
   ***************************/
-  #githubSection{
-    float: right;
-    width: 40%;
-  }
-  #githubDescription{
+  .picture-section {
     float: left;
-    width: 60%;
-  }
-  #githubSymbol a img{
-  }
- 
-  #githubSymbol p{
-    padding: 0 15%; 
-  }
-  #tapHeroPicture{
-    float: right;
     width: 40%;
-  }  
+  }
 
-  #tapHeroDescription{
-    float: left;
+  .project-description {
+    float: right;
     width: 60%;
+    height: 50%;
+    padding: 10% 0 40%;
   }
   
   /***************************
