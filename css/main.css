@@ -3,21 +3,22 @@ a {
 }
 
 a:link{
-  color: #1a1a1a;
+  color: #37c;
 }
 
 a:visited{
-  color: gray;
+  color: brown;
 }
 a:active{
 	color: hotpink;
 }
 a:hover{
-	color: gray;
+	color: #5e9516;
 }
 
 p {
-	color: black;
+  color: rgba(61, 60, 60, 0.733);
+  font-weight: 500;
 }
 
 #wrapper {
@@ -57,6 +58,9 @@ h1{
 }
 
 h3{
+  font-family: 'Changa One', sans-serif;
+  font-weight: normal;
+  font-size: 1.6em;
   margin: 0 0 1em 0;
   color: #37c;
 }
@@ -97,7 +101,6 @@ nav li{
 */
 body {
   background-color: #fff;
-  color: #999;
   margin: 0;
 }
 
@@ -119,50 +122,6 @@ footer{
 
 footer a img{
   width: 10%;
-}
-
-/***************************
-PAGE: PORTFOLIO
-***************************/
-
-/*
-   Image fit with the browser
-*/
-img {
-  max-width: 100%;
-}
-
-#githubSymbol {
- padding: 0;
- margin: 0;
- list-style: none;
-}
-
-#githubSymbol a img{
-  margin: 20px 25%;
-  width: 50%;
-}
-
-#githubSymbol p{
-  margin: 0 0;
-  text-align: center; 
-  font-size: 1.5em;
-  color: #000;
-}
-#tapHeroPicture{
-  padding: 0;
-  clear: right;
-}
-#tapHeroPicture img{
-  width: 65%;
-  margin: 10px 18%;
-}
-
-#tapHeroPicture p{
-  margin: 20px 0;
-  text-align: center;
-  font-size: 1.5em;
-  color: #000;
 }
 
 /***************************

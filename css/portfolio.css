@@ -1,0 +1,36 @@
+/***************************
+PAGE: PORTFOLIO
+***************************/
+
+#wrapper h3{
+    text-align: center; 
+    color: #37c;
+    max-width: 100%;
+}
+
+#wrapper h4 {
+    margin: -20px 0 25px;
+    text-align: center;
+    color: #5e9516;
+    width: 100%;
+}
+
+.project-wrapper {
+    display: block;
+    padding: 0;
+    float: left;
+    width: 100%;
+    margin: 25px 0;
+}
+
+.picture-section {
+    padding: 0;
+    clear: left;
+    margin: 25px 0;
+}
+
+.picture-section img {
+    width: 50%;
+    margin: 0 25%;
+    border-radius: 5%;
+}
