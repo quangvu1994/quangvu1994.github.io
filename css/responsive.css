@@ -64,15 +64,19 @@ Apply this type of CSS if the width is at 490px
     float: right;
     text-align: right;
     margin-right: 5%;
-    width: 45%;
+    width: 60%;
     font-size: 1.125em;
+  }
+
+  nav ul {
+    width: 100%
   }
   
   #logo {
     float: left;
     margin-left: 5%;
     text-align: left;
-    width: 45%;
+    width: 30%;
   }
   
   h1{
