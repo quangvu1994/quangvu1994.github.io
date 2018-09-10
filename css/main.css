@@ -171,3 +171,13 @@ PAGE: CONTACT
   padding: 0 0 0 30px;
   margin: 0 0 10px;
 }
+
+#primary {
+  margin: 25px 0px;
+  float: left;
+}
+
+#secondary {
+  float: left;
+  margin: 25px 0px;
+}
